@@ -13,7 +13,7 @@ Pig game I built while learning JavaScript.
 
 - The first player to reach 100 points on GLOBAL score wins the game
 
-# tweak in-game rules
+# Tweak in-game rules
 
 1. A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn. 
 
