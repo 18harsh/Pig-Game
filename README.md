@@ -1,6 +1,9 @@
 # Pig-Game
 Pig game I built while learning JavaScript.
 
+# Click on link to play game:
+18harsh.github.io/pig-game/
+
 # Original GAME RULES:
 
 - The game has 2 players, playing in rounds
