@@ -2,7 +2,7 @@
 Pig game I built while learning JavaScript.
 
 # Click on link to play game:
-18harsh.github.io/pig-game/
+https://18harsh.github.io/Pig-Game/
 
 # Original GAME RULES:
 
